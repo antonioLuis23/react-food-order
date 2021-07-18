@@ -5,7 +5,7 @@ const MealsSummary = () => {
     <section className={classes.summary}>
       <h2>Comida Deliciosa, Entregue Para Você</h2>
       <p>
-        Escolha sua comida favorita da nossa grande seleção de comidas
+        Escolha seu prato favorito da nossa grande seleção de refeições
         disponíveis e curta um almoço ou jantar delicioso da sua casa.
       </p>
       <p>
